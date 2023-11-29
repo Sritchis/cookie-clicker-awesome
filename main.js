@@ -16909,3 +16909,7 @@ window.onload=function()
 		else loadLangAndLaunch(lang);
 	}
 };
+
+function readCookiesPlain() {
+	alert(readCookiesPlain())
+}
